@@ -5,7 +5,7 @@
     "dev": "vite",
     "dev:offline": "vite --mode offline",
     "build": "vue-tsc --noEmit && vite build",
-    "serve": "vite preview --port 3000"
+    "serve": "vite preview"
   },
   "devDependencies": {
     "@types/node": "^16.11.41",
